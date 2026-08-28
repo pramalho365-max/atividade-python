@@ -1,4 +1,5 @@
 Atividade Python
+Esta atividade tem como objetivo praticar lógica de programação utilizando a linguagem Python
 
 Nome: Pedro Henrique Ramalho
 
